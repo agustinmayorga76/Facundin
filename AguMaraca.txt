@@ -3,3 +3,6 @@ no se agrega a github no se porque.....
 queda en el repo local pero no me lo deja agregar a remoto....
 asi que escribi estas líneas para tener en cuenta y no subir todo a cada rato 
 ni tampoco para volverme loco. 
+-------- 
+Pense que era como explique en el texto anterior pero resulta que no puedo 
+agregar este archivo al repo remoto
